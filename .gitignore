@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+# >>> eval8 (managed) >>>
+.vscode/
+# <<< eval8 (managed) <<<
+
+# >>> project guide (managed) >>>
+music_school.db
+__pycache__/
+*.pyc
+# <<< project guide (managed) <<<
